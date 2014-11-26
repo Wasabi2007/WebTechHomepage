@@ -4,28 +4,28 @@ h1, header,main{
   margin-right: auto ;
 	text-align: center;
 }
+header {padding-bottom:0.7em;}
 
 body {color:#f3d1a1;
 		background-color:#6a4437;}
-
-
 section, aside, article {text-align: left; margin-left: 5%; clear:left;}
 
 ul.unternav {
 	text-align:left;
-	color:red;
+	color:yellow;
 }
 
+ul.unternav a { color:#E88711;}
 
-div.spalten 		{height:18em;
-				padding-top:0.7em;}
+main h2 {margin-top:0.7em;}
+
+div.spalten 		{height:18em;}
 div.spalteLinks 	{float:left;
-						width:50%;
-						height:100%;}
-div.spalteRechts {}
+						width:66%;
+						height:18em;}
+div.spalteRechts {padding-top:1em;}
 
-h2 {text-align:left;
-	margin-top:1em;}
+h2 {text-align:left;}
 
 h3.infobox {padding-top:0.5em;}
 
@@ -51,8 +51,5 @@ h3.infobox {padding-top:0.5em;}
 	background-color: #e3c191;
 }
 
-main {
-	clear: left;
-}
 
 
