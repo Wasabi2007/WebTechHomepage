@@ -16,13 +16,17 @@ ul.unternav {
 	color:red;
 }
 
-div.spalten 		{height:18em;}
+div.spalten 		{height:18em;
+				padding-top:0.7em;}
 div.spalteLinks 	{float:left;
 						width:50%;
 						height:100%;}
 div.spalteRechts {}
 
-h2 {text-align:left;}
+h2 {text-align:left;
+	margin-top:1em;}
+
+h3.infobox {padding-top:0.5em;}
 
 .mainNav ol li {
 	float: left;
