@@ -53,3 +53,34 @@ h3.infobox {padding-top:0.5em;}
 
 
 
+.inforow > *{
+	width: 50%;
+	float: left;
+}
+
+.info * {
+	clear: left;
+	text-align: left;
+}
+
+.info ul {
+ padding: 0px;
+	list-style: none
+}
+
+.info p {
+	padding-right: 20px;
+}
+
+.inforow >img{
+	margin-top: 50px;
+}
+
+#map-canvas {
+	width: 100%;
+	height: 400px;
+}
+
+
+
+
