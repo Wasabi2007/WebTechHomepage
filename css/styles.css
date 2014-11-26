@@ -22,8 +22,8 @@ main h2 {margin-top:0.7em;}
 div.spalten 		{height:18em;}
 div.spalteLinks 	{float:left;
 						width:66%;
-						height:90%;}
-div.spalteRechts {}
+						height:18em;}
+div.spalteRechts {padding-top:1em;}
 
 h2 {text-align:left;}
 
