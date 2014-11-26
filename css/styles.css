@@ -8,20 +8,12 @@ h1, header,main{
 body {color:#f3d1a1;
 		background-color:#6a4437;}
 
-section, aside {text-align: left;
-			clear:left;
-			margin-top:30px;}
+section, aside, article {text-align: left; margin-left: 5%;}
 
 ul.unternav {
 	text-align:left;
 	color:red;
 }
-
-div.spalten 		{}
-div.spalteLinks 	{float:left;
-						width:50%;
-						height:100%;}
-img.spalteRechts {clear:left;}
 
 h2 {text-align:left;}
 
@@ -31,12 +23,14 @@ h2 {text-align:left;}
 	color: #e3c191;
 	background-color: #7a5447;
 }
+
 .mainNav ol li a {
 	padding: 10px;
 	color: #e3c191;
 	font-size: larger;
 	text-decoration: none;
 }
+
 .mainNav ol li:hover a {
 	color: #7a5447;
 }
@@ -44,6 +38,7 @@ h2 {text-align:left;}
 .mainNav ol li:hover {
 	background-color: #e3c191;
 }
+
 main {
 	clear: left;
 }
