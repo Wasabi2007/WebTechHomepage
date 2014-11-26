@@ -5,6 +5,7 @@ h1, header,main{
 	text-align: center;
 }
 
+section{text-align: left;}
 
 ul.unternav {
 	color:red;
