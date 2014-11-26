@@ -8,7 +8,7 @@ h1, header,main{
 body {color:#f3d1a1;
 		background-color:#6a4437;}
 
-section{text-align: left;}
+section, aside {text-align: left;}
 
 ul.unternav {
 	text-align:left;
