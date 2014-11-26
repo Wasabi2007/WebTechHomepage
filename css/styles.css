@@ -15,7 +15,8 @@ ul.unternav {
 	color:yellow;
 }
 
-ul.unternav a { color:#E88711;}
+ul.unternav a { text-decoration:none; color:#E88711;}
+ul.unternav a:hover { text-decoration:none; color:#E84317;}
 
 main h2 {margin-top:0.7em;}
 
