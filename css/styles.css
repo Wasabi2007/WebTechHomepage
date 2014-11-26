@@ -5,10 +5,10 @@ h1, header,main{
 	text-align: center;
 }
 
+
+
 body {color:#f3d1a1;
 		background-color:#6a4437;}
-
-
 section, aside, article {text-align: left; margin-left: 5%; clear:left;}
 
 ul.unternav {
@@ -16,6 +16,7 @@ ul.unternav {
 	color:red;
 }
 
+main h2 {margin-top:0.7em;}
 
 div.spalten 		{height:18em;
 				padding-top:0.7em;}
@@ -24,11 +25,11 @@ div.spalteLinks 	{float:left;
 						height:100%;}
 div.spalteRechts {}
 
-h2 {text-align:left;
-	margin-top:1em;}
+h2 {text-align:left;}
 
 h3.infobox {padding-top:0.5em;}
 
+.mainNav {padding-bottom:0.7em;}
 .mainNav ol li {
 	float: left;
 	list-style: none;
@@ -51,8 +52,5 @@ h3.infobox {padding-top:0.5em;}
 	background-color: #e3c191;
 }
 
-main {
-	clear: left;
-}
 
 
