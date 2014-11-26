@@ -19,14 +19,15 @@ h2 {text-align:left;}
 
 .mainNav ol li {
 	float: left;
-	padding: 10px;
 	list-style: none;
 	color: #e3c191;
 	background-color: #7a5447;
 }
 
 .mainNav ol li a {
+	padding: 10px;
 	color: #e3c191;
+	font-size: larger;
 	text-decoration: none;
 }
 
