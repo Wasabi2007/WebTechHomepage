@@ -5,6 +5,9 @@ h1, header,main{
 	text-align: center;
 }
 
+body {color:#f3d1a1;
+		background-color:#6a4437;}
+
 section{text-align: left;}
 
 ul.unternav {
