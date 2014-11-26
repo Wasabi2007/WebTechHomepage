@@ -4,8 +4,7 @@ h1, header,main{
   margin-right: auto ;
 	text-align: center;
 }
-
-
+header {padding-bottom:0.7em;}
 
 body {color:#f3d1a1;
 		background-color:#6a4437;}
@@ -18,18 +17,16 @@ ul.unternav {
 
 main h2 {margin-top:0.7em;}
 
-div.spalten 		{height:18em;
-				padding-top:0.7em;}
+div.spalten 		{height:18em;}
 div.spalteLinks 	{float:left;
-						width:50%;
-						height:100%;}
+						width:66%;
+						height:90%;}
 div.spalteRechts {}
 
 h2 {text-align:left;}
 
 h3.infobox {padding-top:0.5em;}
 
-.mainNav {padding-bottom:0.7em;}
 .mainNav ol li {
 	float: left;
 	list-style: none;
