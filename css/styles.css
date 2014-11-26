@@ -37,10 +37,18 @@ h3.infobox {padding-top:0.5em;}
 	background-color: #7a5447;
 }
 
+.mainNav ol li:first-child {
+	border-radius: 5px 0px 0px 5px;
+}
+
+.mainNav ol li:last-child {
+	border-radius: 0px 5px 5px 0px;
+}
+
 .mainNav ol li a {
 	padding: 10px;
 	color: #e3c191;
-	font-size: larger;
+	font-size: 19px;
 	text-decoration: none;
 }
 
@@ -75,6 +83,7 @@ h3.infobox {padding-top:0.5em;}
 
 .inforow >img{
 	margin-top: 50px;
+	border-radius: 20px;
 }
 
 #map-canvas {
