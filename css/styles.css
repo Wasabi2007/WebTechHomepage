@@ -8,14 +8,26 @@ h1, header,main{
 body {color:#f3d1a1;
 		background-color:#6a4437;}
 
-section, aside {text-align: left;}
+
+section, aside, article {text-align: left; margin-left: 5%; clear:left;}
 
 ul.unternav {
 	text-align:left;
 	color:red;
 }
 
-h2 {text-align:left;}
+
+div.spalten 		{height:18em;
+				padding-top:0.7em;}
+div.spalteLinks 	{float:left;
+						width:50%;
+						height:100%;}
+div.spalteRechts {}
+
+h2 {text-align:left;
+	margin-top:1em;}
+
+h3.infobox {padding-top:0.5em;}
 
 .mainNav ol li {
 	float: left;
