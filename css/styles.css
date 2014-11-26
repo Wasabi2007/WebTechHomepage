@@ -1,1 +1,14 @@
-ul.unternav {color:red;}
+ul.unternav {
+	color:red;
+}
+
+nav ol li {
+	float: left;
+	margin: 10px;
+	list-style: none;
+}
+
+main {
+	clear: left;
+}
+
