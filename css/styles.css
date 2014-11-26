@@ -9,19 +9,18 @@ body {color:#f3d1a1;
 		background-color:#6a4437;}
 
 section, aside {text-align: left;
-			clear:left;
-			margin-top:30px;}
+			clear:left;}
 
 ul.unternav {
 	text-align:left;
 	color:red;
 }
 
-div.spalten 		{}
+div.spalten 		{height:18em;}
 div.spalteLinks 	{float:left;
 						width:50%;
 						height:100%;}
-img.spalteRechts {clear:left;}
+div.spalteRechts {}
 
 h2 {text-align:left;}
 
