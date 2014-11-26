@@ -8,35 +8,27 @@ h1, header,main{
 body {color:#f3d1a1;
 		background-color:#6a4437;}
 
-section, aside {text-align: left;}
+section, aside {text-align: left;
+			clear:left;
+			margin-top:30px;}
 
 ul.unternav {
 	text-align:left;
 	color:red;
 }
 
+div.spalten 		{}
+div.spalteLinks 	{float:left;
+						width:50%;
+						height:100%;}
+img.spalteRechts {clear:left;}
+
 h2 {text-align:left;}
 
 .mainNav ol li {
 	float: left;
+	margin: 10px;
 	list-style: none;
-	color: #e3c191;
-	background-color: #7a5447;
-}
-
-.mainNav ol li a {
-	padding: 10px;
-	color: #e3c191;
-	font-size: larger;
-	text-decoration: none;
-}
-
-.mainNav ol li:hover a {
-	color: #7a5447;
-}
-
-.mainNav ol li:hover {
-	background-color: #e3c191;
 }
 
 main {
