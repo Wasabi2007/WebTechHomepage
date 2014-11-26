@@ -12,8 +12,10 @@ section, aside, article {text-align: left; margin-left: 5%; clear:left;}
 
 ul.unternav {
 	text-align:left;
-	color:red;
+	color:yellow;
 }
+
+ul.unternav a { color:#E88711;}
 
 main h2 {margin-top:0.7em;}
 
