@@ -1,4 +1,4 @@
-h1, header,main{
+h1, header,main, footer{
 	width: 700px ;
   margin-left: auto ;
   margin-right: auto ;
@@ -134,3 +134,19 @@ h1 a{
 	padding-bottom: 20px;
 }
 
+footer> * {text-align: left;}
+
+div.footerleft {float: left;
+	width: 30%;
+	}
+div.footerright {float: right;
+	width: 50%;
+	}
+div.footerright> p{float: left; margin-right: 30px}
+
+a[href="mailto:mao@lin.bux"] {color: #E88711}
+a[href="mailto:mao@lin.bux"]:hover {color: #E84317}
+
+ul.nonlist {list-style: none; padding-left: 0px;}
+
+footer h3, footer ul, footer p {margin-top: 0px; margin-bottom: 0px;}
