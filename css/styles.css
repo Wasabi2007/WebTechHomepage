@@ -4,7 +4,21 @@ h1, header,main{
   margin-right: auto ;
 	text-align: center;
 }
-header {padding-bottom:0.7em;}
+header {padding-bottom:0.7em;clear:left;}
+
+div.logo {width:700px;margin:auto;text-align:center;}
+img.logoleft {
+	float:left;
+	text-align:left;
+	width:24.142857142%;}
+h1.logo{float:left;
+		width:51.7142857142%;
+		text-align:center;
+		}
+img.logoright{float:right;
+	text-align:right;
+	width:24.142857142%;}
+/*LogoLeft + Logo + Logoright = 100% */
 
 body {color:#f3d1a1;
 		background-color:#6a4437;}
