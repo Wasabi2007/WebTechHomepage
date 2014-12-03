@@ -149,4 +149,6 @@ a[href="mailto:mao@lin.bux"]:hover {color: #E84317}
 
 ul.nonlist {list-style: none; padding-left: 0px;}
 
+footer {margin-top: 20px; border-top: 5px solid; padding-top: 10px}
+
 footer h3, footer ul, footer p {margin-top: 0px; margin-bottom: 0px;}
