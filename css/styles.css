@@ -6,7 +6,7 @@ h1, header,main, footer{
 }
 header {padding-bottom:0.7em;clear:left;}
 
-div.logo {width:700px;margin:auto;text-align:center;}
+div.logo {width:700px; margin:auto; text-align:center;}
 img.logoleft {
 	float:left;
 	text-align:left;
@@ -151,7 +151,7 @@ div.footerright {float: right;
 	width: 50%;
 	}
 div.footerright> p{float: left; margin-right: 30px}
-
+/*alle direkten Kinder*/
 a[href="mailto:mao@lin.bux"] {color: #E88711}
 a[href="mailto:mao@lin.bux"]:hover {color: #E84317}
 
